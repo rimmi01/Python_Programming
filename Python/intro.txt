@@ -1,0 +1,12 @@
+one of the best famous programming laguage is python, 
+and you have to download vscode and python ide to run the python code, 
+and, also don't feel like you aren't able to run the  python code, but, 
+brew install python 3 // for MAC 
+hello world ka program likho uske baad 
+use extension .py for all python files 
+
+
+cli command line interface , it, will launch repl, read evaluate print loop 
+
+
+ord(), and chr() functions are used for ascii values in python
